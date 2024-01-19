@@ -107,7 +107,7 @@
         </div>
         <div class="col-md-3 plan-box">
           <h4>36 Session/2 Months</h4>
-          <span class="b1">$42.60</span><br>
+          <span class="b1">$42.55</span><br>
           <span class="b2">per Session</span><br>
           <span class="b3">$ 1,150 per Month</span><br>
           <p class="b4">Save 25%</p><br>
